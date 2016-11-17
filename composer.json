@@ -23,7 +23,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Hades19\\Bt1\\": ""
+      "Magestore\\Student\\": ""
     }
   }
 }
