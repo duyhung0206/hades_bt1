@@ -1,5 +1,5 @@
 {
-  "name": "hades/hades_bt1",
+  "name": "hades19/hades_bt1",
   "description": "N/A",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0"
@@ -23,7 +23,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Hades\\Bt1\\": ""
+      "Hades19\\Bt1\\": ""
     }
   }
 }
